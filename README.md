@@ -8,8 +8,8 @@ Apple metal sample code rewrite in swift.
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Performing Calculations on a GPU](https://developer.apple.com/documentation/metal/basic_tasks_and_concepts/performing_calculations_on_a_gpu) | [Swift](./01_PerformingCalculationsOnAGPU/)|Medium|
-|2|[Using Metal to Draw a View’s Contents](https://developer.apple.com/documentation/metal/basic_tasks_and_concepts/using_metal_to_draw_a_view_s_contents) | [Swift](./MigratingOpenGLCodeToMetal/)|Medium|
-|3|[Using a Render Pipeline to Render Primitives](https://developer.apple.com/documentation/metal/using_a_render_pipeline_to_render_primitives) | [Swift](./MigratingOpenGLCodeToMetal/)|Medium|
+|2|[Using Metal to Draw a View’s Contents](https://developer.apple.com/documentation/metal/basic_tasks_and_concepts/using_metal_to_draw_a_view_s_contents) | [Swift](./02_UsingMetalToDrawAViewContentsents/)|Medium|
+|3|[Using a Render Pipeline to Render Primitives](https://developer.apple.com/documentation/metal/using_a_render_pipeline_to_render_primitives) | [Swift](./03_UsingARenderPipelineToRenderPrimitives/)|Medium|
 |4|[Synchronizing CPU and GPU Work](https://developer.apple.com/documentation/metal/synchronization/synchronizing_cpu_and_gpu_work) | [Swift](./MigratingOpenGLCodeToMetal/)|Medium|
 |5|[Creating and Sampling Textures](https://developer.apple.com/documentation/metal/creating_and_sampling_textures) | [Swift](./MigratingOpenGLCodeToMetal/)|Medium|
 |6|[Migrating OpenGL Code to Metal](https://developer.apple.com/documentation/metal/migrating_opengl_code_to_metal) | [Swift](./MigratingOpenGLCodeToMetal/)|Medium|
