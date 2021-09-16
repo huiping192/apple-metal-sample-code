@@ -19,14 +19,14 @@ Apple metal sample code rewrite in swift.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|-|[Processing a Texture in a Compute Function](https://developer.apple.com/documentation/metal/processing_a_texture_in_a_compute_function) | [Swift](./ProcessingATextureInAComputeFunction/)|Medium|
+|7|[Processing a Texture in a Compute Function](https://developer.apple.com/documentation/metal/processing_a_texture_in_a_compute_function) | [Swift](./ProcessingATextureInAComputeFunction/)|Medium|
 
 
 ## Ray Tracing
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|-|[Accelerating Ray Tracing Using Metal](https://developer.apple.com/documentation/metal/accelerating_ray_tracing_using_metal) | [Swift](./ProcessingATextureInAComputeFunction/)|Medium|
+|8|[Accelerating Ray Tracing Using Metal](https://developer.apple.com/documentation/metal/accelerating_ray_tracing_using_metal) | [Swift](./ProcessingATextureInAComputeFunction/)|Medium|
 
 
 
@@ -34,10 +34,10 @@ Apple metal sample code rewrite in swift.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|-|[Using a Render Pipeline to Render Primitives](https://developer.apple.com/documentation/metal/using_a_render_pipeline_to_render_primitives) | [Swift](./UsingARenderPipelineToRenderPrimitives/)|Medium|
-|-|[Creating and Sampling Textures](https://developer.apple.com/documentation/metal/creating_and_sampling_textures) | [Swift](./CreatingAndSamplingTextures/)|Medium|
-|-|[Calculating Primitive Visibility Using Depth Testing](https://developer.apple.com/documentation/metal/calculating_primitive_visibility_using_depth_testing) | [Swift](./CreatingAndSamplingTextures/)|Medium|
-|-|[Customizing Render Pass Setup](https://developer.apple.com/documentation/metal/customizing_render_pass_setup) | [Swift](./CreatingAndSamplingTextures/)|Medium|
+|9|[Using a Render Pipeline to Render Primitives](https://developer.apple.com/documentation/metal/using_a_render_pipeline_to_render_primitives) | [Swift](./UsingARenderPipelineToRenderPrimitives/)|Medium|
+|10|[Creating and Sampling Textures](https://developer.apple.com/documentation/metal/creating_and_sampling_textures) | [Swift](./CreatingAndSamplingTextures/)|Medium|
+|11|[Calculating Primitive Visibility Using Depth Testing](https://developer.apple.com/documentation/metal/calculating_primitive_visibility_using_depth_testing) | [Swift](./CreatingAndSamplingTextures/)|Medium|
+|12|[Customizing Render Pass Setup](https://developer.apple.com/documentation/metal/customizing_render_pass_setup) | [Swift](./12_CustomizingRenderPassSetup/)|Medium|
 
 
 ## Tools
