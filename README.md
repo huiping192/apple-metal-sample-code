@@ -19,7 +19,7 @@ Apple metal sample code rewrite in swift.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|7|[Processing a Texture in a Compute Function](https://developer.apple.com/documentation/metal/processing_a_texture_in_a_compute_function) | [Swift](./ProcessingATextureInAComputeFunction/)|Medium|
+|7|[Processing a Texture in a Compute Function](https://developer.apple.com/documentation/metal/processing_a_texture_in_a_compute_function) | [Swift](./07_ProcessingATextureInAComputeFunction/)|Medium|
 
 
 ## Ray Tracing
