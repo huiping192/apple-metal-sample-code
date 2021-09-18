@@ -1,3 +1,9 @@
+/*
+See LICENSE folder for this sample’s licensing information.
+
+Abstract:
+Header for a very simple container for image data
+*/
 
 #import <Foundation/Foundation.h>
 

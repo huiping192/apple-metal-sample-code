@@ -22,7 +22,6 @@ typedef struct
     vector_float2 textureCoordinate;
 } AAPLVertex;
 
-
 struct RasterizerData
 {
     // The [[position]] attribute qualifier of this member indicates this value is
@@ -84,3 +83,4 @@ samplingShader(RasterizerData in [[stage_in]],
     // return the color of the texture
     return float4(colorSample);
 }
+
