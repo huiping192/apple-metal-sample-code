@@ -54,10 +54,9 @@ Apple metal sample code rewrite in swift.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-
-|-|[Mixing Metal and OpenGL Rendering in a View](https://developer.apple.com/documentation/metal/mixing_metal_and_opengl_rendering_in_a_view) | [Swift]()|Medium|
-|-|[Modern Rendering with Metal](https://developer.apple.com/documentation/metal/modern_rendering_with_metal) | [Swift]()|Medium|
-|-|[Processing HDR Images with Metal](https://developer.apple.com/documentation/metal/processing_hdr_images_with_metal) | [Swift]()|Medium|
+|-|[Mixing Metal and OpenGL Rendering in a View](https://developer.apple.com/documentation/metal/mixing_metal_and_opengl_rendering_in_a_view) | [Swift](./ProcessingATextureInAComputeFunction/)|Medium|
+|-|[Modern Rendering with Metal](https://developer.apple.com/documentation/metal/modern_rendering_with_metal) | [Swift](./ProcessingATextureInAComputeFunction/)|Medium|
+|-|[Processing HDR Images with Metal](https://developer.apple.com/documentation/metal/processing_hdr_images_with_metal) | [Swift](./ProcessingATextureInAComputeFunction/)|Medium|
 
 
 
